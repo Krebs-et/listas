@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: content-box;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 ul {
@@ -16,6 +17,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    color: white;
 }
 
 .elementoLista{
@@ -40,8 +42,9 @@ button{
     flex-direction: column;
 }
 
-input {
+.nuevaTarea {
     padding: 8px;
+    height: 150px;
 }
 
 .buttonContainers {

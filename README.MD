@@ -1,0 +1,1 @@
+El proyecto integra una versión de lista de tareas que aprovecha el localStorage para guardar y recuperar las tareas del usuario.
